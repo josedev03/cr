@@ -1,0 +1,20 @@
+"{'username':'usernameSecret','password':'passwordSecret'}"
+
+metodo para consultar sobre redis
+
+
+guardado de redis
+
+enrolamiento enrollmentbff
+persistente
+
+crear dos instacias efimeral
+enrollmen
+zona logueada
+itau-co-bff
+
+
+información de usuario y de session en redis efimeral
+planes productos
+planes cache de redis, plan seleccionado
+planes adicionales
